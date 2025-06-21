@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 첫 번째 시작은 제 이름입니다. 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+안녕하세요 제 이름은 정우입니다. 
 
 ## Getting Started
 
